@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.collection.StreamSupplementTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-20T10:25:55" hostname="PeterdeMBP.wework.com" time="0.041">
+  <properties/>
+  <testcase name="should_get_average_of_list()" classname="com.thoughtworks.collection.StreamSupplementTest" time="0.033"/>
+  <testcase name="should_return_max_value()" classname="com.thoughtworks.collection.StreamSupplementTest" time="0.004"/>
+  <testcase name="should_sort_from_max_to_min()" classname="com.thoughtworks.collection.StreamSupplementTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
